@@ -85,5 +85,3 @@ else:
 
 bot.polling()
 
-
-Второй файл. 

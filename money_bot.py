@@ -1,5 +1,3 @@
-money_bot.py
-
 import telebot
 import config
 
@@ -85,5 +83,3 @@ else:
 
 bot.polling()
 
-
-Второй файл. 
